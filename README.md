@@ -80,6 +80,11 @@ AI 痕迹消隐：stop-slop、humanizer-zh、shuorenhua、ai-flavor-remover
 
 [docs/成果展示.pdf](docs/成果展示.pdf)——完整跑一遍流程产出的论文成果。
 
+选题为 2022 年 CUMCM D 题《基于机会约束规划与组合调度的气象报文卫星通信传输问题研究》。
+论文就三个问题分别建立主站组合调度模型、基于 Bernoulli 试验的机会约束模型，以及引入两状态
+环境模型的相关性检验，求解采用半段装箱构造搜索与蒙特卡洛模拟，并给出各问题的调度方案、
+可部署分队数与可靠性达标概率。
+
 ## 已知说明
 
 论文排版脚本（`generate_cumcm_docx.py`）输出的 docx 在不同 Office 环境下可能有细节差异，
